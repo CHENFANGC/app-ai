@@ -1,0 +1,51 @@
+{
+  "search_results": [
+    {
+      "passage": "太康人寿保险公司提供多种保险产品，包括寿险、健康险、意外险等，满足客户不同需求。太康人寿致力于为客户提供全方位的保障服务，帮助客户规划美好未来。",
+      "score": 0.95,
+      "date": "2023-05-15",
+      "title": "太康人寿保险产品介绍",
+      "url": "https://example.com/taikang/insurance",
+      "site": "太康官网",
+      "images": [
+        "https://img01.51jobcdn.com/im/images/2016/08/04/sunny_liqingping_1470285472.jpg"
+      ],
+      "favicon": "https://www.taikangzhijia.com/favicon.ico"
+    },
+    {
+      "passage": "太康养老社区提供全方位的养老服务，包括医疗护理、生活照料、文化娱乐等。太康养老社区环境优美，设施完善，是老年人安享晚年的理想选择。",
+      "score": 0.92,
+      "date": "2023-06-20",
+      "title": "太康养老社区服务详情",
+      "url": "https://example.com/taikang/elderly-care",
+      "site": "太康之家",
+      "images": [
+        "https://img95.699pic.com/photo/50055/5561.jpg_wh300.jpg",
+        "https://img01.51jobcdn.com/im/images/2016/08/04/sunny_liqingping_1470285472.jpg"
+      ],
+      "favicon": "https://www.taikangzhijia.com/favicon.ico"
+    },
+    {
+      "passage": "太康健康管理服务包括健康体检、慢病管理、健康咨询等多项服务。太康健康管理中心拥有专业的医疗团队和先进的医疗设备，为客户提供高质量的健康管理服务。",
+      "score": 0.88,
+      "date": "2023-07-10",
+      "title": "太康健康管理服务介绍",
+      "url": "https://example.com/taikang/health-management",
+      "site": "太康健康",
+      "images": [],
+      "favicon": "https://www.taikangzhijia.com/favicon.ico"
+    },
+    {
+      "passage": "太康人寿2025年度保险计划已经发布，新计划包含更多保障内容和更灵活的缴费方式。客户可以根据自己的需求选择适合的保险计划，获得更全面的保障。",
+      "score": 0.85,
+      "date": "2024-12-01",
+      "title": "太康人寿2025年度保险计划",
+      "url": "https://example.com/taikang/plan-2025",
+      "site": "太康新闻",
+      "images": [
+        "https://img01.51jobcdn.com/im/images/2016/08/04/sunny_liqingping_1470285472.jpg"
+      ],
+      "favicon": "https://www.taikangzhijia.com/favicon.ico"
+    }
+  ]
+}
